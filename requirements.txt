@@ -1,0 +1,4 @@
+adblockparser==0.7
+pandas==2.0.3
+selenium_wire==5.1.0
+undetected-chromedriver==3.5.3
